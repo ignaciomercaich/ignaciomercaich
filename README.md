@@ -1,14 +1,12 @@
 
 <h1 align="center"><b>Hola, soy Ignacio Mercaich</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Saira+Stencil&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+Informática,;Desarrollador+principiante+de+Videojuegos+2D,;Aprendiendo+Front-End,;Y+aprendiendo+de+la+vida :D"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=25&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollador+principiante+de+Videojuegos+2D;Aprendiendo+Front-End;Y+aprendiendo+de+la+vida+%3AD" alt="Typing SVG" /></a>
 </p>
 
 <br>
 	
 <p>Sobre mi</p>
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -29,38 +27,46 @@
 
 - **Lenguajes**:
     
-    [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-    [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-    [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-    [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+    ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)(#)
+    ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)(#)
+    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)(#)
+    ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)(#)
 
 <br>   
     
 - **Desarrollo Front-End**:
 
-   [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-   [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)(#)
+   ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)(#)
     
+<br>
+
+- **Bases de datos**:
+
+    ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)(#)
+    ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/SSMS-CC2927?logo=mssqlserver-white&logoColor=white)(#)    
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)(#)
+    ![MongoDB](https://img.shields.io/badge/MongoDB%20Compass-%234ea94b.svg?logo=mongodb&logoColor=white)(#)
+
 <br>
 
 - **Software y Herramientas**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  	![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)(#)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+  	![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)(#)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
 
-- **Bases de datos**:
+- **Editores de Código**:
 
-    [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
-    [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/SSMS-CC2927?logo=mssqlserver-white&logoColor=white)](#)    
-    [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-    [![MongoDB](https://img.shields.io/badge/MongoDB%20Compass-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-
+  	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+	![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)(#)
+	![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)(#)
+	
 </p>
 
 <br>
