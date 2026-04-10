@@ -1,14 +1,9 @@
-<head>
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100..900&display=swap" rel="stylesheet">
-	<title>Portfolio de Ignacio Mercaich</title>
-</head>
 
-<h1 style="font-family: Smooch Sans";align="center"><b>Hola, soy Ignacio Mercaich</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Ignacio Mercaich</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=25&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollador+principiante+de+Videojuegos+2D;Aprendiendo+Front-End;Y+aprendiendo+de+la+vida+%3AD" alt="Typing SVG" /></a>
 </p>
+
 
 <br>
 	
